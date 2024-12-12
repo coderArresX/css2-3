@@ -12,6 +12,7 @@ nav {
     margin-left: auto;
     background-color: #F7F4FF;
 }
+
 #header-content {
     max-width: 1183px;
     height: 48px;
@@ -108,7 +109,7 @@ h1 {
     color: #535862;
     font-size: 20px;
     font-weight: 400;
-    line-height: 27px; 
+    line-height: 27px;
     margin: 16px 0;
     text-align: left;
     height: 81px;
@@ -132,4 +133,350 @@ ol {
     max-width: 1221px;
     width: 100%;
     height: 706px;
+    margin-top: 83px;
 }
+
+#seccond-item-header {
+    max-width: 905px;
+    height: 140px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h2 {
+    color: #000000;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 68px;
+}
+
+#container-paragraph {
+    color: #535862;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 27px;
+    margin-top: 18px;
+    margin-bottom: 28px;
+}
+
+#second-item-main {
+    max-width: 1221px;
+    max-height: 538px;
+    width: 100%;
+    height: 100%;
+    padding: 32px;
+    border-radius: 16px;
+    background-color: #F7F4FF;
+}
+
+#Contact-container {
+    display: inline-block;
+    max-height: 473px;
+    max-width: 403px;
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    border-radius: 16px;
+    background-color: #FFFFFF;
+    vertical-align: middle;
+    margin-right: 24px;
+}
+
+#address-item {
+    width: 363px;
+    height: 57px;
+}
+
+#address-pin {
+    padding: 10px;
+    border-radius: 50px;
+    width: 56px;
+    height: 56px;
+    margin-right: 16px;
+    vertical-align: middle;
+
+}
+
+#address-title {
+    display: inline-block;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 29px;
+}
+
+#address {
+    color: #6D5F8B;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 21.5px;
+}
+
+#address-container {
+    vertical-align: top;
+    display: inline-block;
+    width: 285px;
+    height: 57px;
+}
+
+#email-item {
+    width: 363px;
+    height: 57px;
+    margin: 24px 0;
+}
+
+#email-icon {
+    padding: 10px;
+    border-radius: 50px;
+    width: 56px;
+    height: 56px;
+    margin-right: 16px;
+    vertical-align: middle;
+}
+
+#email-container {
+    vertical-align: top;
+    display: inline-block;
+    width: 285px;
+    height: 57px;
+}
+
+#email-title {
+    display: inline-block;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 29px;
+}
+
+#email {
+    color: #6D5F8B;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 21.5px;
+}
+
+#phone-item {
+    width: 363px;
+    height: 57px;
+    margin: 24px 0;
+}
+
+#phone-icon {
+    padding: 10px;
+    border-radius: 50px;
+    width: 56px;
+    height: 56px;
+    margin-right: 16px;
+    vertical-align: middle;
+}
+
+#phone-container {
+    vertical-align: top;
+    display: inline-block;
+    width: 285px;
+    height: 57px;
+}
+
+#phone-title {
+    display: inline-block;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 29px;
+}
+
+#phone {
+    color: #6D5F8B;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 21.5px;
+}
+
+#message-container {
+    display: inline-block;
+    max-width: 725px;
+    max-height: 473px;
+    width: 100%;
+    height: 100%;
+    vertical-align: middle;
+}
+
+h3 {
+    color: #1B003D;
+    font-size: 32px;
+    font-weight: 900;
+    line-height: 44px;
+    text-align: left;
+    margin-bottom: 16px;
+}
+
+#form-container {
+    max-width: 725px;
+    max-height: 414px;
+    width: 100%;
+    height: 100%;
+}
+
+label {
+    display: block;
+    color: #1B003D;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    margin-bottom: 8px;
+}
+
+#text-input {
+    width: 725px;
+    height: 48px;
+    border-radius: 8px;
+    color: #6D5F8B;
+    border: 1px solid #8E26C0;
+    padding: 8px 16px;
+    margin-bottom: 24px;
+    background-color: #F7F4FF
+}
+
+#email-input {
+    width: 725px;
+    height: 48px;
+    border-radius: 8px;
+    color: #6D5F8B;
+    border: 1px solid #8E26C0;
+    padding: 8px 16px;
+    margin-bottom: 24px;
+    background-color: #F7F4FF
+}
+
+textarea {
+    height: 146px;
+    width: 725px;
+    border-radius: 16px;
+    color: #6D5F8B;
+    border: 1px solid #8E26C0;
+    padding: 12px 16px;
+    margin-bottom: 24px;
+    background-color: #F7F4FF;
+}
+
+textarea::placeholder {
+    color: #6D5F8B;
+}
+
+input::placeholder {
+    color: #6D5F8B;
+}
+
+#submit {
+    display: block;
+    width: 140px;
+    height: 48px;
+    color: #FFFFFF;
+    background-color: #8E26C0;
+    padding: 12px 24px;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: auto;
+    border: 1px solid #8E26C0;
+}
+
+footer {
+    width: 100%;
+    height: 100%;
+    padding-top: 64px;
+    padding-bottom: 48px;
+    background-color: #53389E;
+}
+
+#footer-link-container {
+    max-width: 1300px;
+    max-height: 240px;
+    width: 100%;
+    padding: 0 32px;
+    margin: 0 auto;
+}
+
+#product-div,
+#company-div,
+#resources-div,
+#use-div,
+#social-div {
+    display: inline-block;
+    width: 176px;
+    margin-right: 32px;
+    color: #E9D7FE;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+}
+
+#Product,
+#Company,
+#Resources,
+#use-cases,
+#Social,
+#Legal {
+  font-weight: 600;
+  font-size: 14px; 
+  line-height: 20px; 
+  color: #D6BBFB;
+  margin-bottom: 16px;
+}
+
+#legal-div {
+    display: inline-block;
+    width: 176px;
+    color: #E9D7FE;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+} 
+
+#footer-link-container p {
+    margin-bottom: 12px;
+}
+
+#copyRight-container {
+    max-width: 1300px;
+    max-height: 64px;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+    margin-top: 64px;
+    padding: 0 32px;
+}
+
+#copyRight-content {
+    max-width: 1236px;
+    max-height: 64px;
+    width: 100%;
+    height: 100%;
+    padding-top: 32px;
+    border-top: 1px solid #7F56D9;
+}
+
+#footerLogo {
+    width: 142px;
+    height: 32px;
+    vertical-align: middle;
+    
+}
+
+#copy-right {
+    display: inline-block;
+    width: 293px;
+    height: 24px;
+    color: #D6BBFB;
+    font-size: 16px;
+    font-weight: 400px;
+    line-height: 24px;
+    vertical-align: middle;
+    float: right;
+    text-align: right;
+}
+
+
